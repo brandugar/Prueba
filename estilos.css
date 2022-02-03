@@ -1,0 +1,21 @@
+section{
+    background-color: burlywood;
+}
+div{
+    background-color: gray;
+    padding: 10px;
+    margin: 20px;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 12px;
+
+    border-radius: 8px;
+}
+.fondoVerde{
+    background-color: greenyellow;
+}
+.fondoAzul{
+    background-color: blue;
+}
